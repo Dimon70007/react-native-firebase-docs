@@ -72,7 +72,7 @@ Set a string value to show alongside any subsequent crash reports.
 | Parameter |     |
 | --------- | --- |
 | key       | **string** <br /> The name of the key. |
-| value     | **number** <br /> The value of the key. |
+| value     | **string** <br /> The value of the key. |
 
 ### setUserIdentifier
 [method]setUserIdentifier(userId) returns void;[/method]
